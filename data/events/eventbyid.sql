@@ -1,0 +1,1 @@
+Select * from api_users where Id =@UserId
